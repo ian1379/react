@@ -12,6 +12,7 @@ const SassComponent = () => {
         <div className="box blue" />
         <div className="box indigo" />
         <div className="box violet" />
+        <div></div>
       </div>
     </div>
   );
